@@ -1,0 +1,15 @@
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe.config
+C:\temp\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.exe
+C:\temp\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.pdb
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.pdb
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\MPI.dll
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\MPI.xml
+C:\temp\RVIP_4N\RVIP_5\obj\Debug\RVIP_4.csprojResolveAssemblyReference.cache
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe.config
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.exe
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.pdb
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.pdb
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\bin\Debug\MPI.xml
+D:\Svetlana\политех\4 курс 1 семестр\РВиП\RVIP_4N\RVIP_4N\RVIP_5\obj\Debug\RVIP_4.csprojResolveAssemblyReference.cache
