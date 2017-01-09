@@ -23,7 +23,7 @@ namespace RVIP_5
                         for (int j = 0; j < 6; j++)
                         {
                             mass[i, j] = rand.Next(0, 9);
-                            Console.Write(mass[i, j] * " ");
+                            Console.Write(mass[i, j] + " ");
                         }
                         Console.WriteLine();
                     }
